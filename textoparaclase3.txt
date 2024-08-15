@@ -1,0 +1,4 @@
+Utilice un editor de código para comentarios de varias líneas en Python
+
+Código de Visual Studio En Visual Studio Code, seleccione el bloque de código y utiliza Ctrl + k, Ctrl + c 
+para comentar y Ctrl + k, Ctrl + u para descomentar.
